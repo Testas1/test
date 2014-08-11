@@ -1,12 +1,3 @@
 Testas3
 
-
-<<<<<<< HEAD
-FCXASDOKASD
-=======
-
-
-
-
-PZASDASD
->>>>>>> b54e960a68f71848efab3aa6ff2098808dfd0d66
+STEREOTIP
